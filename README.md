@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 AI developer, build products for users.<br>🤝 Looking for opportunities.<br>🌱 I’m currently learning about AI agents and MCPs.
+🔭 AI developer, build products for users.<br>🤝 Looking for opportunities.<br>🌱 Building useful products.
 
 
 ## 🌐 Socials:
